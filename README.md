@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wyzth_zkevmxyz?style=social)](https://twitter.com/wyzth_zkevmxyz)
-[![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/wyzth_zkevmxyz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wyzthofficial?style=social)](https://twitter.com/wyzthofficial)
+[![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/kN7SHcyE)
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/wyzth_zkevmxyz/wyzth_zkevm-mono/badge)](https://www.gitpoap.io/gh/wyzth_zkevmxyz/wyzth_zkevm-mono)
 [![License](https://img.shields.io/github/license/wyzth_zkevmxyz/wyzth_zkevm-mono)](https://github.com/wyzth_zkevmxyz/wyzth_zkevm-mono/blob/main/LICENSE.md)
 
